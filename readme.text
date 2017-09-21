@@ -1,10 +1,6 @@
 modify
-
-
 test New line
 .
-
-
 git test diff status
 
-
+test git commit -a 
