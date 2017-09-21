@@ -13,7 +13,7 @@
 @end
 
 @interface HistoryWordsView : UIView
-@property (nonatomic, strong) NSArray<NSString *> *historyWordsArr;
-@property (nonatomic, weak) id <HistoryWordsViewDelegate> delegate;
+@property(nonatomic, strong) NSArray<NSString *> *historyWordsArr;
+@property(nonatomic, weak) id<HistoryWordsViewDelegate> delegate;
 
 @end
